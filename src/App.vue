@@ -18,15 +18,15 @@
         <div id="navbarmenu" class="navbar-menu">
           <div class="navbar-start">
             <a class="navbar-item">
-              Top
+              <router-link to="/">Top</router-link>
             </a>
 
             <a class="navbar-item">
-              About
+              <router-link to="about">About</router-link>
             </a>
 
             <a class="navbar-item">
-              Application
+              <router-link to="application">Application</router-link>
             </a>
 
             <div class="navbar-item has-dropdown is-hoverable">
@@ -79,7 +79,9 @@
       <router-link to="application">application</router-link>
     </li>
     </ul>
+
   </div>
+
 </template>
 
 <script>
