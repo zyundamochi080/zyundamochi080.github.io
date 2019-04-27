@@ -80,6 +80,8 @@
     </li>
     </ul>
 
+    <router-view/>
+
   </div>
 
 </template>
