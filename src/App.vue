@@ -6,10 +6,10 @@
         <div class="hero-body">
           <div class="container">
             <h1 class="title">
-              Primary title
+              Zyundamochi_080's Page
             </h1>
             <h2 class="subtitle">
-              Primary subtitle
+              Welcome to my page!
             </h2>
 
             <div class="columns">
@@ -41,12 +41,6 @@
     </li>
     <li>
       <router-link to="about">About</router-link>
-    </li>
-    <li>
-      <router-link to="note">Note</router-link>
-    </li>
-    <li>
-      <router-link to="api">Api</router-link>
     </li>
     <li>
       <router-link to="contact">Contact</router-link>

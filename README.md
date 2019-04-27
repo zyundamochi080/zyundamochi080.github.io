@@ -1,6 +1,6 @@
 # my-blog
 
-> A Vue.js project
+> This is a my blog repositories, Build in Vue.js.
 
 ## Build Setup
 
