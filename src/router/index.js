@@ -8,7 +8,7 @@ import application from '@/components/application'
 Vue.use(Router)
 
 export default new Router({
-  node: 'history',
+  mode: 'history',
   routes: [
     {
       path: '/',
