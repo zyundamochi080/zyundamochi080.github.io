@@ -36,14 +36,17 @@
 
               <div class="navbar-dropdown">
                 <a class="navbar-item">
-                  Jobs
+                  <router-link to="community">Community</router-link>
                 </a>
                 <a class="navbar-item">
-                  Contact
+                  <router-link to="job">Job</router-link>
+                </a>
+                <a class="navbar-item">
+                  <router-link to="contact">Contact</router-link>
                 </a>
                 <hr class="navbar-divider">
                 <a class="navbar-item">
-                  This repository
+                  <a href="https://github.com/zyundamochi080/zyundamochi080.github.io">This repository</a>
                 </a>
               </div>
             </div>

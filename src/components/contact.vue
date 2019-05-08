@@ -1,21 +1,20 @@
 <template>
-
-<p>about pages</p>
-
+  <div class="hello">
+    <p>contact pages</p>
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'about',
+  name: 'contact',
   data () {
     return {
-      msg: 'about pages'
+      msg: 'contact pages'
     }
   }
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h1, h2 {
   font-weight: normal;

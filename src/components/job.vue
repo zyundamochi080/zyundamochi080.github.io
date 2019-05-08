@@ -1,15 +1,13 @@
 <template>
-
-<p>about pages</p>
-
+<p>job pages</p>
 </template>
 
 <script>
 export default {
-  name: 'about',
+  name: 'job',
   data () {
     return {
-      msg: 'about pages'
+      msg: 'job pages'
     }
   }
 }

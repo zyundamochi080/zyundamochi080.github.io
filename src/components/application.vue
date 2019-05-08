@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <p>hello</p>
+    <p>application pages</p>
   </div>
 </template>
 
@@ -9,7 +9,7 @@ export default {
   name: 'application',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'application pages'
     }
   }
 }
